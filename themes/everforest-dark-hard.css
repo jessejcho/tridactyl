@@ -62,7 +62,7 @@
     --tridactyl-hintspan-font-family:
         var(--tridactyl-font-family) !important;
 
-    --tridactyl-font-size: 12pt;
+    --tridactyl-font-size: 14pt;
 
     --tridactyl-small-font-size:
         calc(var(--tridactyl-font-size) * 0.75);
